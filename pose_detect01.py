@@ -11,7 +11,7 @@ mp_drawing = mp.solutions.drawing_utils
 
 # 義足画像を読み込む（投下情報も読み込むため -1）
 prosthetic_img = cv2.imread(
-    "./prosthetic_leg.png",
+    "./xiborg_nu.png",
     cv2.IMREAD_UNCHANGED,
 )
 
